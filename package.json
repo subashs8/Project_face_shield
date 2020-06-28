@@ -1,0 +1,24 @@
+{
+  "name": "project_face_shield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subashs8/Project_face_shield.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subashs8/Project_face_shield/issues"
+  },
+  "homepage": "https://github.com/subashs8/Project_face_shield#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-spreadsheet": "^3.0.11",
+    "vash": "^0.13.0"
+  }
+}
